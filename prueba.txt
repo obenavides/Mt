@@ -1,2 +1,11 @@
-a e i o u
-abc
+Como respuesta a este punto debe enviar la URL del repositorio.
+
+Para cada ejercicio debe crear un notebook de jupyter diferente. Para poder utilizar jupyterlab siga las instrucciones en https://github.com/ComputoCienciasUniandes/Examen/.
+
+1. Escriba en un notebook de jupyter una explicación del método de Newton-Raphson. Asuma que los estudiantes ya saben usar numpy y matplotlib. Asuma que los estudiantes ya vieron cálculo diferencial pero todavía no han visto cómo derivar numéricamente. Como explicación de los conceptos incluya en el notebook un ejemplo para encontrar numéricamente las tres raíces del polinomio de tercer grado   f abrir paréntesis x cerrar paréntesis igual paréntesis izquierdo x más 2 paréntesis derecho paréntesis izquierdo x menos 2 paréntesis derecho paréntesis izquierdo x menos 4 paréntesis derecho
+
+
+2. Escriba en un notebook de jupyter una explicación de la resolución de ecuaciones diferenciales parciales de segundo orden por diferencias finitas. Asuma que los estudiantes ya saben usar numpy y matplotlib y además ya vieron un curso de ecuaciones diferenciales. Para explicar los conceptos elija una ecuación diferencial de segundo orden de su preferencia con las condiciones iniciales adecuadas.
+
+
+3. Escriba en un notebook de jupyter una explicación de algún método para encontar la recta que mejor ajusta a un conjunto de puntos. Deje en claro que requisitos anteriores deben tener los estudiantes (por ejemplo, algebra lineal, ecuaciones diferenciales, transformada de Fourier, etc) para entender el método propuesto. Para explicar los conceptos cree un conjunto de puntos y haga el ajuste de la recta.
